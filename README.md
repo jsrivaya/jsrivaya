@@ -32,6 +32,13 @@ I'm a **Staff Software Engineer** passionate about **Distributed Systems and Rob
 <!-- ## Top Languages here --
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSRIVAYA&layout=compact&show_icons=true&theme=radical)](https://github.com/JSRIVAYA/github-readme-stats)
+
+<a href="https://github.com/jsrivaya/github-readme-stats">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/jsrivaya/convoychat">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSRIVAYA&layout=compact&show_icons=true&theme=dark&langs_count=8&card_width=320" />
+</a>
 -->
 <!--
 ## Featured Projects
