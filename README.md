@@ -15,9 +15,10 @@ I'm a **Staff Software Engineer** passionate about **Distributed Systems and Rob
 [![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)](https://www.omg.org/dds/)
 
 <!-- ### Tools & Platforms -->
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![Podman](https://img.shields.io/badge/-Podman-2496ED?logo=docker&logoColor=white)](https://podman.io)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org)   
 
 <!-- ### DevOps & APIs -->
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=gitlab&logoColor=white)
