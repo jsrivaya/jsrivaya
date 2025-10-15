@@ -16,7 +16,7 @@ I'm a **Staff Software Engineer** passionate about **Distributed Systems and Rob
 
 <!-- ### Tools & Platforms -->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-[![Podman](https://img.shields.io/badge/-Podman-2496ED?logo=docker&logoColor=white)](https://podman.io)
+[![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)](https://podman.io)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org)   
 
