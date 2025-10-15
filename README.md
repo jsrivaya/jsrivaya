@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Jorge! 👋
+
+## About Me
+I'm a **Staff Software Engineer** passionate about **Distributed Systems and Robotics**.  
+- 🌱 Learning: Rust | ROS2
+- 🌍 Languages: C++ | Python | Rust | English | Spanish 
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jsrivaya)
+<!-- - 🔭 Working on: [Project]  -->
+
+## 🛠️ Tech Stack
+<!-- ### Languages -->
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)
+
+<!-- ### Tools & Platforms -->
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+<!-- ### DevOps & APIs -->
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=gitlab&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-009688?logo=api&logoColor=white)
+
+<!-- ### Methodologies -->
+![TDD](https://img.shields.io/badge/TDD-Test__Driven__Development-0A7E8C)
+![Clean Code](https://img.shields.io/badge/Clean__Code-Principles-42ba96)
+![Agile](https://img.shields.io/badge/Agile-Scrum-F2A230)
+![Sprint Planning](https://img.shields.io/badge/Sprint__Planning-Agile__Methodology-F2A230)
+
+<!-- ## Top Languages here --
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSRIVAYA&layout=compact&show_icons=true&theme=radical)](https://github.com/JSRIVAYA/github-readme-stats)
+-->
+<!--
+## Featured Projects
+### [Project Name](link)
+Brief description of what it does and tech used.
+
+## Get in Touch
+[LinkedIn](https://www.linkedin.com/in/jsrivaya) | [Portfolio](link)   
+-->
 
 <!--
 **jsrivaya/jsrivaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
