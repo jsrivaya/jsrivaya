@@ -9,10 +9,10 @@ I'm a **Staff Software Engineer** passionate about **Distributed Systems and Rob
 
 ## 🛠️ Tech Stack
 <!-- ### Languages -->
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)](https://www.omg.org/dds/)
 
 <!-- ### Tools & Platforms -->
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
