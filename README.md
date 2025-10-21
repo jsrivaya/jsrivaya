@@ -4,7 +4,8 @@
 I'm a **Staff Software Engineer** passionate about **Distributed Systems and Robotics**.  
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust | English | Spanish 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jsrivaya)
+- 📫 Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsrivaya)
+
 <!-- - 🔭 Working on: [Project]  -->
 
 ## 🛠️ Tech Stack
