@@ -1,7 +1,7 @@
 # Hi there, I'm Jorge! 👋
 
 ## About Me
-I'm a **Staff Software Engineer** passionate about **Distributed Systems and Robotics**.  
+I'm a **Fractional Engineer Lead** passionate about **Distributed Systems and Robotics**.  
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust | English | Spanish 
 - ⚡ Fun fact: I work as a Ski Patroller on the weekends
