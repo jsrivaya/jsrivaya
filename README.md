@@ -15,6 +15,7 @@ I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Ro
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)](https://www.omg.org/dds/)
+<img src="https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" height="20" />
 
 <!-- ### Tools & Platforms -->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
