@@ -4,7 +4,7 @@
 I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Robotics** and new technologies.  
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust | English | Spanish 
-- ⚡ Fun fact: I work as a Ski Patroller on the weekends
+- ⚡ Fun fact: I work as a Ski Patroller on the weekends at [Palisades Tahoe](https://www.palisadestahoe.com/)
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsrivaya)
 
 <!-- - 🔭 Working on: [Project]  -->
