@@ -4,6 +4,7 @@
 I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Robotics** and new technologies.  
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust-wannabe | English | Spanish
+- 🤖 AI: Claude Code | Agentic Workflows | LLM APIs | AI-Assisted Development
 - 🚀 Projects: [![Loon](https://img.shields.io/badge/Loon-2e9fc4?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPCEtLSAxNngxNiBwaXhlbCBsb29uIC0gcmVmaW5lZCBvcmlnaW5hbCAtLT4KICAgIDwhLS0gQmFja2dyb3VuZCAtLT4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2U4ZjRmOCIvPgogICAgPCEtLSBCb2R5IC0tPgogICAgPHJlY3QgeD0iMSIgeT0iMTAiIHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjMiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjUiIHk9IjgiIHdpZHRoPSIyIiBoZWlnaHQ9IjQiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjciIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjMiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjkiIHk9IjEwIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8IS0tIFdoaXRlIGNoZXN0IC0tPgogICAgPHJlY3QgeD0iMyIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IndoaXRlIi8+CiAgICA8cmVjdCB4PSI0IiB5PSI5IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSJ3aGl0ZSIvPgogICAgPHJlY3QgeD0iNiIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IndoaXRlIi8+CiAgICA8IS0tIE5lY2sgLS0+CiAgICA8cmVjdCB4PSI4IiB5PSI3IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8cmVjdCB4PSI5IiB5PSI1IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8IS0tIEhlYWQgLS0+CiAgICA8cmVjdCB4PSIxMCIgeT0iMyIgd2lkdGg9IjMiIGhlaWdodD0iMyIgZmlsbD0iIzFhMzY1ZCIvPgogICAgPCEtLSBFeWUgLS0+CiAgICA8cmVjdCB4PSIxMSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0id2hpdGUiLz4KICAgIDwhLS0gQmVhayAtLT4KICAgIDxyZWN0IHg9IjEzIiB5PSI0IiB3aWR0aD0iMiIgaGVpZ2h0PSIxIiBmaWxsPSIjNGE1NTY4Ii8+Cjwvc3ZnPg==)](https://github.com/jsrivaya/loon)
 - ⚡ Fun fact: I work as a Ski Patroller on the weekends at [Palisades Tahoe](https://www.palisadestahoe.com/)
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsrivaya)
@@ -33,6 +34,12 @@ I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Ro
 ![Clean Code](https://img.shields.io/badge/Clean__Code-Principles-42ba96)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-F2A230)
 ![Sprint Planning](https://img.shields.io/badge/Sprint__Planning-Agile__Methodology-F2A230)
+
+<!-- ### AI & Agentic -->
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white)](https://docs.anthropic.com)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E4AFF?logoColor=white)
+![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev-0A7E8C?logoColor=white)
 
 <!-- ## Top Languages here --
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=radical)
