@@ -1,82 +1,61 @@
 # Hi there, I'm Jorge! 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jsrivaya">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Suarez--Rivaya-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.credly.com/users/jsrivaya/badges">
+    <img src="https://img.shields.io/badge/Credly-Jorge%20Suarez--Rivaya-orange?style=flat&logo=Credly&logoColor=white" alt="Credly">
+  </a>
+  <a href="https://app.codecrafters.io/users/jsrivaya">
+    <img src="https://img.shields.io/badge/CodeCrafters-Jorge%20Suarez--Rivaya-7B61FF?style=flat&logoColor=white" alt="CodeCrafters">
+  </a>
+</p>
+
 ## About Me
-I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Robotics** and new technologies.  
+
+I'm a **Fractional Engineering Lead** passionate about **Distributed Systems, Robotics** and new technologies.
+
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust-wannabe | English | Spanish
 - 🤖 AI: Claude Code | Agentic Workflows | LLM APIs | AI-Assisted Development
-- 🚀 Projects: [![Loon](https://img.shields.io/badge/Loon-2e9fc4?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPCEtLSAxNngxNiBwaXhlbCBsb29uIC0gcmVmaW5lZCBvcmlnaW5hbCAtLT4KICAgIDwhLS0gQmFja2dyb3VuZCAtLT4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iI2U4ZjRmOCIvPgogICAgPCEtLSBCb2R5IC0tPgogICAgPHJlY3QgeD0iMSIgeT0iMTAiIHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjMiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjUiIHk9IjgiIHdpZHRoPSIyIiBoZWlnaHQ9IjQiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjciIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjMiIGZpbGw9IiMxYTM2NWQiLz4KICAgIDxyZWN0IHg9IjkiIHk9IjEwIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8IS0tIFdoaXRlIGNoZXN0IC0tPgogICAgPHJlY3QgeD0iMyIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IndoaXRlIi8+CiAgICA8cmVjdCB4PSI0IiB5PSI5IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSJ3aGl0ZSIvPgogICAgPHJlY3QgeD0iNiIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IndoaXRlIi8+CiAgICA8IS0tIE5lY2sgLS0+CiAgICA8cmVjdCB4PSI4IiB5PSI3IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8cmVjdCB4PSI5IiB5PSI1IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjMWEzNjVkIi8+CiAgICA8IS0tIEhlYWQgLS0+CiAgICA8cmVjdCB4PSIxMCIgeT0iMyIgd2lkdGg9IjMiIGhlaWdodD0iMyIgZmlsbD0iIzFhMzY1ZCIvPgogICAgPCEtLSBFeWUgLS0+CiAgICA8cmVjdCB4PSIxMSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0id2hpdGUiLz4KICAgIDwhLS0gQmVhayAtLT4KICAgIDxyZWN0IHg9IjEzIiB5PSI0IiB3aWR0aD0iMiIgaGVpZ2h0PSIxIiBmaWxsPSIjNGE1NTY4Ii8+Cjwvc3ZnPg==)](https://github.com/jsrivaya/loon)
-
-
+- 🚀 Projects: [![Loon](https://img.shields.io/badge/Loon-0d4a3e?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiNlNmY1ZjAiLz4KPHJlY3QgeD0iMSIgeT0iMTAiIHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IiMwZDRhM2UiLz4KPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjIiIGhlaWdodD0iMyIgZmlsbD0iIzBkNGEzZSIvPgo8cmVjdCB4PSI1IiB5PSI4IiB3aWR0aD0iMiIgaGVpZ2h0PSI0IiBmaWxsPSIjMGQ0YTNlIi8+CjxyZWN0IHg9IjciIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjMiIGZpbGw9IiMwZDRhM2UiLz4KPHJlY3QgeD0iOSIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IiMwZDRhM2UiLz4KPHJlY3QgeD0iMyIgeT0iMTAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjQiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjYiIHk9IjEwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ3aGl0ZSIvPgo8cmVjdCB4PSI4IiB5PSI3IiB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjMGQ0YTNlIi8+CjxyZWN0IHg9IjkiIHk9IjUiIHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IiMwZDRhM2UiLz4KPHJlY3QgeD0iMTAiIHk9IjMiIHdpZHRoPSIzIiBoZWlnaHQ9IjMiIGZpbGw9IiMwZDRhM2UiLz4KPHJlY3QgeD0iMTEiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNhN2YzZDAiLz4KPHJlY3QgeD0iMTMiIHk9IjQiIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiNkOTc3MDYiLz4KPC9zdmc+Cg==)](https://loonlib.dev) — A lightweight, header-only modern C++ library for low latency and max performance
 - ⚡ Fun fact: I work as a Ski Patroller on the weekends at [Palisades Tahoe](https://www.palisadestahoe.com/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Suarez--Rivaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jsrivaya)
-[![Credly](https://img.shields.io/badge/Credly-Jorge%20Suarez--Rivaya-orange?style=flat&logo=Credly&logoColor=white)](https://www.credly.com/users/jsrivaya/badges)
-[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-Jorge%20Suarez--Rivaya-7B61FF?style=flat&logoColor=white)](https://app.codecrafters.io/users/jsrivaya)
-
-<!-- - 🔭 Working on: [Project]  -->
-
 ## 🛠️ Tech Stack
-<!-- ### Languages -->
+
+**Languages & Frameworks**
+
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![DDS](https://img.shields.io/badge/-DDS-314FAD?logo=protocol&logoColor=white)](https://www.omg.org/dds/)
-<img src="https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" height="20" />
+[![Redis](https://img.shields.io/badge/-Redis-CC0000?logo=redis&logoColor=white)](https://redis.io)
 
-<!-- ### Tools & Platforms -->
+**Infrastructure & Tools**
+
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 [![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)](https://podman.io)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org)   
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org)
+[![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=gitlab&logoColor=white)](https://about.gitlab.com/topics/ci-cd/)
+[![REST](https://img.shields.io/badge/-REST-009688?logo=api&logoColor=white)](https://restfulapi.net/)
 
-<!-- ### DevOps & APIs -->
-![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=gitlab&logoColor=white)
-![REST](https://img.shields.io/badge/-REST-009688?logo=api&logoColor=white)
+**Practices**
 
-<!-- ### Methodologies -->
-![TDD](https://img.shields.io/badge/TDD-Test__Driven__Development-0A7E8C)
-![Clean Code](https://img.shields.io/badge/Clean__Code-Principles-42ba96)
+![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-0A7E8C)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Principles-42ba96)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-F2A230)
-![Sprint Planning](https://img.shields.io/badge/Sprint__Planning-Agile__Methodology-F2A230)
 
-<!-- ### AI & Agentic -->
+**AI & Tooling**
+
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white)](https://docs.anthropic.com)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E4AFF?logoColor=white)
 ![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev-0A7E8C?logoColor=white)
 
-<!-- ## Top Languages here --
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSRIVAYA&layout=compact&show_icons=true&theme=radical)](https://github.com/JSRIVAYA/github-readme-stats)
+## 📊 Stats
 
-<a href="https://github.com/jsrivaya/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=JSRIVAYA&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/jsrivaya/convoychat">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSRIVAYA&layout=compact&show_icons=true&theme=dark&langs_count=8&card_width=320" />
-</a>
--->
-<!--
-## Featured Projects
-### [Project Name](link)
-Brief description of what it does and tech used.
-
-## Get in Touch
-[LinkedIn](https://www.linkedin.com/in/jsrivaya) | [Portfolio](link)   
--->
-
-<!--
-**jsrivaya/jsrivaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrivaya&layout=compact" alt="Top Languages">
+</p>
