@@ -16,7 +16,7 @@
 </p>
 
 ## About Me
-I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://www.alpineops.app)**, passionate about **Distributed Systems, Robotics** and new technologies.
+I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://alpineops.app/)**, passionate about **Distributed Systems, Robotics** and new technologies.
 
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust-wannabe | English | Spanish
