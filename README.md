@@ -1,5 +1,7 @@
 # Hi there, I'm Jorge! 👋
 
+> *Currently vibe coding at 11,000ft. The agents handle the syntax. I handle the avalanche risk.*
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jsrivaya">
     <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Suarez--Rivaya-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
@@ -16,7 +18,7 @@
 </p>
 
 ## About Me
-I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://alpineops.app/)**, passionate about **Distributed Systems, Robotics** and new technologies.
+I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://alpineops.app/)**, passionate about **Distributed Systems, Robotics** and new technologies. 
 
 - 🌱 Learning: Rust | ROS2
 - 🌍 Languages: C++ | Python | Rust-wannabe | English | Spanish
