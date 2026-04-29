@@ -26,7 +26,7 @@ I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://alpin
 - 🏔️  Building: [![AlpineOps](https://img.shields.io/badge/AlpineOps-0a2e27?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwYTJlMjciLz4KICA8cGF0aCBkPSJNNiA1NCBMIDI0IDIyIEwgMzQgMzYgTCA1OCAxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+&logoColor=34d399)](https://alpineops.app#gh-light-mode-only)
 [![AlpineOps](https://img.shields.io/badge/AlpineOps-34d399?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwYTJlMjciLz4KICA8cGF0aCBkPSJNNiA1NCBMIDI0IDIyIEwgMzQgMzYgTCA1OCAxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+&logoColor=0a2e27)](https://alpineops.app#gh-dark-mode-only)
    — Offline-first incident management for ski patrol operations
-- ⚡ Fun fact: I work as a Ski Patroller on the weekends at [Palisades Tahoe](https://www.palisadestahoe.com/)
+- ⚡ Fun fact: I work as a Ski Patroller ⛷️ ❄️ ⛑️ on the weekends at [Palisades Tahoe](https://www.palisadestahoe.com/)
 
 ## 🛠️ Tech Stack
 
