@@ -62,10 +62,6 @@ I'm a **Fractional Engineering Lead** and founder of **[AlpineOps](https://alpin
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E4AFF?logoColor=white)
 ![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev-0A7E8C?logoColor=white)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/jsrivaya)
-
 ## 📊 Stats
 
 <p align="center">
